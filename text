@@ -1,0 +1,165 @@
+Question 1
+What is the correct way to open a file named data.txt for reading in Python?
+
+open('data.txt', 'w')
+open('data.txt', 'a')
+open('data.txt', 'ra')
+open('data.txt', 'r')
+
+
+Question 2
+Which command in Python's os module is used to remove a directory?
+os.remove()
+os.mkdir()
+os.delete()
+os.rmdir()
+
+
+Question 3
+In Python, what is the main purpose of using the 'self' keyword within a class method?
+To initialize static variables within the class.
+To define class-level variables shared among all instances.
+To access instance variables and methods of the class.
+To override inherited methods from parent classes.
+
+
+Question 4
+What is the role of directories in organizing files and subdirectories on a computer system?
+Directories are used for converting files and subdirectories.
+Directories organize files and subdirectories, helping manage and locate them.
+Directories are used for applying security settings to files.
+Directories are used for encrypting files and subdirectories.
+
+  
+Question 5
+Which Python module is used to create directories?
+sys
+json
+math
+os
+
+  
+Question 6
+What is the advantage of using readlines() in Python when handling file data?
+It closes the file automatically after reading all lines.
+It provides faster processing of file data.
+It reads the entire file as a single string for quick processing.
+It allows easy access to all lines as a list for further processing.
+
+  
+Question 7
+Which type of file is typically used for storing audio and image data, offering advantages in compression and compatibility?
+Compressed text files
+Textual files
+Binary files
+Compressed image files
+
+  
+Question 8
+Which of the following file modes in Python allows for appending data to an existing file?
+r
+x
+a
+w
+
+  
+Question 9
+Why is it important to use exception handling in Python programming?
+It serves as a warning to the programmer about potential issues.
+It manages runtime errors, ensures code execution, and prevents program crashes.
+It logs potential errors for future reference.
+It tracks errors during program execution.
+
+  
+Question 10
+What Python function is used to read a single line from an open text file?
+readlines()
+readfile()
+read()
+readline()
+
+  
+Question 11
+In Python, when dealing with errors, what is the main advantage of using the except block?
+It finalizes the execution of code regardless of errors.
+It is used to wrap critical code that must always execute.
+It ensures the code is free from syntax errors.
+It allows the programmer to handle specific exceptions.
+
+  
+Question 12
+What is operator overloading in Python, and how is it used to customize class behavior?
+Defining custom behaviors for operators within a class.
+Replacing all operators in a class with functions.
+Creating new operators for a class.
+Using operators to access elements in a list.
+
+  
+Question 13
+What function from the os module in Python can be used to rename a folder?
+os.rename()
+os.chdir()
+os.mkdir()
+os.rmdir()
+
+  
+Question 14
+How does polymorphism benefit object-oriented programming in Python?
+
+It restricts access to class variables, ensuring data security.
+It provides a mechanism to overload operators for custom behaviors.
+It allows objects to be treated as instances of their parent class, enabling flexible and dynamic code.
+It enables multiple inheritance, allowing a class to inherit from multiple parent classes.
+
+  
+Question 15
+What is the primary purpose of the try block in Python's exception handling?
+
+To catch exceptions that occur during program execution.
+To handle exceptions raised by the code.
+To finalize the code execution.
+To enclose code that might raise an exception during execution.
+
+  
+Question 16
+Which of the following best describes polymorphism in the context of Python?
+ 
+The ability of different classes to provide their specific implementations of methods.
+The requirement for all classes to share identical methods and attributes.
+The limitation of classes to use only inherited methods without changes.
+The strict enforcement of a single method implementation across all classes.
+
+  
+Question 17
+You are tasked with creating a new directory in Python using the os module. Which of the following commands will achieve this?
+os.mkdir('new_directory')
+os.remove('new_directory')
+os.rmdir('new_directory')
+os.rename('new_directory')
+
+
+  
+Question 18
+Why is the 'self' keyword important when defining class variables in Python?
+It is used to create local variables within a method.
+It is used to reference instance variables within methods of a class.
+It is used to initialize a class without any instance variables.
+It is used to define global variables accessible from anywhere.
+
+  
+Question 19
+What does encapsulation mean in object-oriented programming (OOP)?
+
+Sharing all data across all classes and their instances.
+Exposing all class components without restrictions.
+Restricting access to certain components of a class and exposing a limited interface.
+Allowing direct access to all class variables.
+
+  
+
+Question 20
+How does inheritance enhance program functionality in Python?
+By copying data from one class to another without any method sharing.
+By merging several classes into one without sharing methods.
+By preventing classes from accessing methods of other classes.
+By allowing new classes to inherit attributes and methods from existing classes.
